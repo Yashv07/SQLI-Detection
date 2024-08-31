@@ -1,0 +1,73 @@
+Multinomial	Accuracy: 0.982368165642187	Confusion Matrix:	Classification Report:
+		[[3867   45]	              precision    recall  f1-score   support
+		 [  64 2206]]	
+			           0       0.98      0.99      0.99      3912
+			           1       0.98      0.97      0.98      2270
+			
+			    accuracy                           0.98      6182
+			   macro avg       0.98      0.98      0.98      6182
+			weighted avg       0.98      0.98      0.98      6182
+			
+Bernoulli’s	Accuracy: 0.9792947266256875	Confusion Matrix:	Classification Report:
+		[[3828   84]	              precision    recall  f1-score   support
+		 [  44 2226]]	
+			           0       0.99      0.98      0.98      3912
+			           1       0.96      0.98      0.97      2270
+			
+			    accuracy                           0.98      6182
+			   macro avg       0.98      0.98      0.98      6182
+			weighted avg       0.98      0.98      0.98      6182
+			
+GaussianNB	Accuracy: 0.9890003235198964 	Confusion Matrix:	Classification Report:
+		[[3883   29]	              precision    recall  f1-score   support
+		 [  39 2231]]	
+			           0       0.99      0.99      0.99      3912
+			           1       0.99      0.98      0.98      2270
+			
+			    accuracy                           0.99      6182
+			   macro avg       0.99      0.99      0.99      6182
+			weighted avg       0.99      0.99      0.99      6182
+			
+			
+SVM RBF	Accuracy: 0.9945001617599483	Confusion Matrix:	Classification Report:
+		[[3909    3]	              precision    recall  f1-score   support
+		 [  31 2239]]	
+			           0       0.99      1.00      1.00      3912
+			           1       1.00      0.99      0.99      2270
+			
+			    accuracy                           0.99      6182
+			   macro avg       1.00      0.99      0.99      6182
+			weighted avg       0.99      0.99      0.99      6182
+			
+			
+Logistic Regression	Accuracy: 0.9941766418634747	Confusion Matrix:	Classification Report:
+		[[3910    2]	              precision    recall  f1-score   support
+		 [  34 2236]]	
+			           0       0.99      1.00      1.00      3912
+			           1       1.00      0.99      0.99      2270
+			
+			    accuracy                           0.99      6182
+			   macro avg       1.00      0.99      0.99      6182
+			weighted avg       0.99      0.99      0.99      6182
+			
+			
+Decision Tree	Accuracy: 0.9943384018117114	Confusion Matrix:	Classification Report:
+		[[3898   14]	              precision    recall  f1-score   support
+		 [  21 2249]]	
+			           0       0.99      1.00      1.00      3912
+			           1       0.99      0.99      0.99      2270
+			
+			    accuracy                           0.99      6182
+			   macro avg       0.99      0.99      0.99      6182
+			weighted avg       0.99      0.99      0.99      6182
+			
+			
+RandomForestClassifier	Accuracy: 0.9945001617599483	Confusion Matrix:	Classification Report:
+		[[3900   12]	              precision    recall  f1-score   support
+		 [  22 2248]]	
+			           0       0.99      1.00      1.00      3912
+			           1       0.99      0.99      0.99      2270
+			
+			    accuracy                           0.99      6182
+			   macro avg       0.99      0.99      0.99      6182
+			weighted avg       0.99      0.99      0.99      6182

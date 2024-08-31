@@ -1,0 +1,29 @@
+##  ACTUAL DATA
+-8609%"   )    )     )   union all select 6021,6021,6021,6021,6021,6021--
+-6546"  )   order by 1#
+SELECT AVG ( thick )  FROM hall  SELECT SUM ( shaking ) 
+1"   )    )     )   and   (  7396  =  6351  )  *6351 and    (    (     (  "xerw" like "xerw
+sojuela
+SELECT column_name FROM table_name WHERE condition GROUP BY column_name HAVING condition ORDER BY  column_name;
+SELECT column_name ( s )  FROM equal,bet
+1'   )    )     )   or char  (  117  )  ||char  (  111  )  ||char  (  105  )  ||char  (  100  )    =  regexp_substring  (  repeat  (  left  (  crypt_key  (  char  (  65  )  ||char  (  69  )  ||char  (  83  )  ,null  )  ,0  )  ,500000000  )  ,null  )   and    (    (     (  'zglq'  =  'zglq
+4.92079E+15
+SELECT * FROM realize WHERE    NOT tent = 'funny'
+
+
+
+## OUTPUT
+1
+1
+0
+1
+0
+0
+0
+1
+0
+0
+
+
+
+## 
